@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E6F1105C-6446-D102-E992-46EC88B18971}") = "The Wolf Among Us - QTE", "Assembly-CSharp.csproj", "{D2279EE7-EAA6-3295-F17E-F6924615EF56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2279EE7-EAA6-3295-F17E-F6924615EF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2279EE7-EAA6-3295-F17E-F6924615EF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2279EE7-EAA6-3295-F17E-F6924615EF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2279EE7-EAA6-3295-F17E-F6924615EF56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

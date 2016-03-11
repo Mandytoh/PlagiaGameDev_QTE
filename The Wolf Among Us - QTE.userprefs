@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\InputManager.cs">
+    <Files>
+      <File FileName="Assets\TimerManager.cs" Line="17" Column="36" />
+      <File FileName="Assets\World.cs" Line="7" Column="31" />
+      <File FileName="Assets\QTEManager.cs" Line="42" Column="6" />
+      <File FileName="Assets\InputManager.cs" Line="13" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
